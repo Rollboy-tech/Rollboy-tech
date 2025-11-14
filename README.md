@@ -3,8 +3,6 @@
 ![Welcome Banner](https://img.shields.io/badge/Welcome-to%20my%20GitHub-blueviolet?style=for-the-badge&logo=github)
 
 I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I build **modern, responsive, and interactive web applications** that combine clean code and beautiful design.
-![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=Rollboy-tech.Rollboy-Tech)
-![npm downloads](https://img.shields.io/npm/dt/package-name?style=flat-square)
 
 ---
 
@@ -36,14 +34,17 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FF9A00?style=for-the-badge&logo=xampp&logoColor=white)
----
+
+### **Visitors and Downloads**
+![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=Rollboy-tech.Rollboy-Tech)
+![npm downloads](https://img.shields.io/npm/dt/package-name?style=flat-square)
 
 ## 🌐 GitHub Stats
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rollboy-tech&show_icons=true&hide_border=true&theme=radical" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rollboy-tech&layout=compact&theme=radical" />
-  <img height="150px" src="https://streak-stats.demolab.com?user=Rollboy-tech&theme=radical" />
+<img height="150px" src="https://streak-stats.demolab.com?user=Rollboy-tech&theme=radical" />
 </div>
 
 ---
