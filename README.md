@@ -37,20 +37,6 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 
 ---
 
-## 💼 Portfolio / Projects (Interactive Hover Gallery)
-
-<div align="center">
-
-### 🔹 Auth Forms (Login & Signup)  
-<a href="https://github.com/Rollboy-tech/grassmophisim-login-register-pages" target="_blank">
-![Grassmophisim Auth](https://via.placeholder.com/200x120?text=Grassmophisim+Login+Register+Pages)
-</a>  
-💡 **Description:** Clean, responsive login & signup forms.  
-🛠 **Tech:** HTML, CSS, JavaScript  
-🔗 [Live Demo](#) | [GitHub](https://github.com/Rollboy-tech/grassmophisim-login-register-pages)
-</div>
----
-
 ## 🌐 GitHub Stats
 
 <div align="center">
