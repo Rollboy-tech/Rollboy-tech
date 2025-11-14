@@ -37,6 +37,7 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 
 ### **Page Parfomance**
 ![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=Rollboy-tech.Rollboy-Tech)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rollboy-tech&theme-radical)
 ---
 
 ## 🌐 GitHub Stats
