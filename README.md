@@ -43,54 +43,20 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 <div align="center">
 
 ### 🔹 Auth Forms (Login & Signup)  
-<a href="https://github.com/YourUsername/auth-forms" target="_blank">
+<a href="https://github.com/Rollboy-tech/grassmophisim-login-register-pages" target="_blank">
 <img src="https://via.placeholder.com/220x130?text=Auth+Forms" alt="Auth Forms" width="220" style="border-radius:10px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
 </a>  
 💡 **Description:** Clean, responsive login & signup forms.  
 🛠 **Tech:** HTML, CSS, JavaScript  
 🔗 [Live Demo](#) | [GitHub](https://github.com/YourUsername/auth-forms)
-
----
-
-### 🔹 Student Results App  
-<a href="https://github.com/YourUsername/student-results-app" target="_blank">
-<img src="https://via.placeholder.com/220x130?text=Student+Results" alt="Student Results" width="220" style="border-radius:10px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>  
-💡 **Description:** Processes student results, averages, rankings, print-ready reports.  
-🛠 **Tech:** HTML, JavaScript  
-🔗 [GitHub](https://github.com/YourUsername/student-results-app)
-
----
-
-### 🔹 Landing Page Template  
-<a href="https://github.com/YourUsername/landing-page-template" target="_blank">
-<img src="https://via.placeholder.com/220x130?text=Landing+Page" alt="Landing Page" width="220" style="border-radius:10px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>  
-💡 **Description:** Modern landing page, responsive & interactive.  
-🛠 **Tech:** HTML, CSS, JavaScript  
-🔗 [Live Demo](#) | [GitHub](https://github.com/YourUsername/landing-page-template)
-
----
-
-### 🔹 CRUD Task App  
-<a href="https://github.com/YourUsername/crud-task-app" target="_blank">
-<img src="https://via.placeholder.com/220x130?text=CRUD+App" alt="CRUD App" width="220" style="border-radius:10px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
-</a>  
-💡 **Description:** Task management app with Create, Read, Update, Delete.  
-🛠 **Tech:** HTML, JavaScript  
-🔗 [GitHub](https://github.com/YourUsername/crud-task-app)
-
 </div>
-
-> ⚠️ **Note:** GitHub Markdown does not support actual hover effects with CSS/JS, but these inline `transition: transform` styles in HTML-like tags give a visual feel in supported viewers and live demo pages. Use GitHub Pages to see full interactive hover effects. Replace placeholder images with actual screenshots for maximum impact.
-
 ---
 
 ## 🌐 GitHub Stats
 
 <div align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_border=true&theme=radical" />
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rollboy-tech&show_icons=true&hide_border=true&theme=radical" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rollboy-tech&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -98,8 +64,8 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 ## 📫 Contact Me
 
 - 📱 WhatsApp: [+255 787 885 020](https://wa.me/255787885020)  
-- ✉️ Email: rashidihamisi@example.com  
-- 🌐 GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
+- ✉️ Email: rashidihamisi@gmail.com  
+- 🌐 GitHub [github.com/YourUsername](https://github.com/Rollboy-tech)  
 - 💼 Upwork: [Your Upwork Profile](#)
 
 ---
