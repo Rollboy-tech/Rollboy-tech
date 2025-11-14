@@ -48,7 +48,7 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 </a>  
 💡 **Description:** Clean, responsive login & signup forms.  
 🛠 **Tech:** HTML, CSS, JavaScript  
-🔗 [Live Demo](#) | [GitHub](https://github.com/YourUsername/auth-forms)
+🔗 [Live Demo](#) | [GitHub](https://github.com/Rollboy-tech/grassmophisim-login-register-pages)
 </div>
 ---
 
@@ -65,7 +65,7 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 
 - 📱 WhatsApp: [+255 787 885 020](https://wa.me/255787885020)  
 - ✉️ Email: rashidihamisi@gmail.com  
-- 🌐 GitHub [github.com/YourUsername](https://github.com/Rollboy-tech)  
+- 🌐 GitHub [github.com/Rollboy-tech](https://github.com/Rollboy-tech)  
 - 💼 Upwork: [Your Upwork Profile](#)
 
 ---
