@@ -33,7 +33,6 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 ### **Tools & Platforms**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FF9A00?style=for-the-badge&logo=xampp&logoColor=white)
 
 ---
@@ -44,7 +43,7 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 
 ### 🔹 Auth Forms (Login & Signup)  
 <a href="https://github.com/Rollboy-tech/grassmophisim-login-register-pages" target="_blank">
-<img src="https://via.placeholder.com/220x130?text=Auth+Forms" alt="Auth Forms" width="220" style="border-radius:10px;transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)';" onmouseout="this.style.transform='scale(1)';"/>
+![Grassmophisim Auth](https://via.placeholder.com/200x120?text=Grassmophisim+Login+Register+Pages)
 </a>  
 💡 **Description:** Clean, responsive login & signup forms.  
 🛠 **Tech:** HTML, CSS, JavaScript  
