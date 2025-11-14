@@ -51,6 +51,6 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 - 📱 WhatsApp: [+255 787 885 020](https://wa.me/255787885020)  
 - ✉️ Email: rashidiallihamisi@gmail.com(mailto:rashidiallihamisi@gmail.com)
 - 🌐 GitHub: [github.com/Rollboy-tech](https://github.com/Rollboy-tech)  
-- 💼 Visitors: [Visitors Badge](https://visitors-badge.laobi.icu/badge?page_id=Rollboy-tech.Rollboy-Tech)
+- 💼 Visitors: [Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=Rollboy-tech.Rollboy-Tech)
 
 ---
