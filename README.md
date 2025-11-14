@@ -44,7 +44,7 @@ I am a **Front-End Developer & UI/UX Enthusiast** from Tanzania 🇹🇿. I buil
 <div align="center">
 <!--<img height="150px" src="https://github-readme-stats.vercel.app/api?username=Rollboy-tech&show_icons=true&hide_border=true&theme=radical" />-->
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rollboy-tech&layout=compact&theme=radical" />
-<img height="150px" src="https://streak-stats.demolab.com?user=Rollboy-tech&theme=radical" />
+<img height="130px" src="https://streak-stats.demolab.com?user=Rollboy-tech&theme=radical" />
 </div>
 
 ---
